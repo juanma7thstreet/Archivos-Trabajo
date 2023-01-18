@@ -6,7 +6,7 @@ int main(){
     FILE *archivoaux=NULL;
 
     archivo=fopen("vector.txt","r+");
-    archivoaux=fopen("vectormultiplicación,txt","w");
+    archivoaux=fopen("vectorx3,txt","w");
 
     int x,y;
     
